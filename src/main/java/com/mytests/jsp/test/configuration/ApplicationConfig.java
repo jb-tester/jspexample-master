@@ -8,7 +8,7 @@ import org.springframework.web.servlet.config.annotation.EnableWebMvc;
 import org.springframework.web.servlet.view.InternalResourceViewResolver;
 
 @Configuration
-@ComponentScan("com.bilichenko.jspexample")
+@ComponentScan("com.mytests.jsp.test.controller")
 @EnableWebMvc
 public class ApplicationConfig {
 

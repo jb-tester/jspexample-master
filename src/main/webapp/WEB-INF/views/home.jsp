@@ -7,6 +7,6 @@
 <body>
     <h1>home page</h1>
     <a href="<c:url value='/index'/>"/>jstl url link</a>
-    <a href="/index">a#href</a>
+    <a href="index">a#href</a>
 </body>
 </html>
